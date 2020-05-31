@@ -1,9 +1,9 @@
 ---
 title: 'Ik heb een bril'
 author: [Norwin als Anne]
-tags: [voorstellen, ]
+tags: [Voorbeelden, Flarden van ]
 image: img/demo1.jpg
-date: '2020-05-05T10:00:00.000Z'
+date: '2019-05-05T10:00:00.000Z'
 draft: false
 ---
 
